@@ -1,0 +1,7 @@
+Generame un formulario que al hacer click en el boton enviar, aparezca un mensaje simple que diga 'mensaje enviado'.
+quiero que este codigo lo crees con ExpressJs y que utilice Ejs para el HTML.
+solo necesito el package.json, formulario.ejs y el index.js.
+el package json va a tener un script de start para iniciar el servidor express quiero que no utilices comillas dobles utiliza solo comillas simples para este archivo.
+quiero que me des toda la informacion en un objeto json que dentro va a tener 3 valores "package.json", "formulario.ejs" y "index.js", el indice va a ser el nombre del archivo y el valor va a ser un string grande con el codigo que va dentro.
+recuerda que me tienes que dar el objeto json sin ponerlo en variable, tampoco poner commentarios ni saltos de linea en el código.
+tu respuesta tiene que ser un objeto sin texto adicional y sin saltar lineas, todo el objeto sin espacios ni saltos de linea.
